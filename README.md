@@ -1,6 +1,6 @@
 # Ecommerce App
 
-Ecommerce App project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Ecommerce App project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8
 
 # Install Node Modules before starting the project
 
